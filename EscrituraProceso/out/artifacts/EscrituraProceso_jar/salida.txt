@@ -1,0 +1,67 @@
+Microsoft Windows [Versi¢n 10.0.19042.1165]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar>MKDIR Nueva_carpeta
+
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar>CD Nueva_carpeta
+
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>ECHO Creo carpeta > MiFichero.txt
+
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>DIRR
+
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>DIR
+ El volumen de la unidad D es VIDEO-AUDIO
+ El n£mero de serie del volumen es: 7A44-BF00
+
+ Directorio de D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta
+
+27/09/2021  14:18    <DIR>          .
+27/09/2021  14:18    <DIR>          ..
+27/09/2021  14:18                15 MiFichero.txt
+               1 archivos             15 bytes
+               2 dirs  448.279.740.416 bytes libres
+
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>
+D:\AlexF\PSP\EscrituraProceso\out\artifacts\EscrituraProceso_jar\Nueva_carpeta>

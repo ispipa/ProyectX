@@ -1,0 +1,2 @@
+MKDIR resultados
+CD resultados

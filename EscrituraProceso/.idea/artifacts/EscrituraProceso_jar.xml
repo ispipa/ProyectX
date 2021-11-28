@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EscrituraProceso:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EscrituraProceso_jar</output-path>
+    <root id="archive" name="EscrituraProceso.jar">
+      <element id="module-output" name="EscrituraProceso" />
+    </root>
+  </artifact>
+</component>

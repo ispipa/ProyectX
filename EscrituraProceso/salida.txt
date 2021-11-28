@@ -1,0 +1,67 @@
+Microsoft Windows [Versi¢n 10.0.19042.1348]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+D:\2§GDAM\PSP\EscrituraProceso>MKDIR Nueva_carpeta
+
+D:\2§GDAM\PSP\EscrituraProceso>CD Nueva_carpeta
+
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>ECHO Creo carpeta > MiFichero.txt
+
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>DIRR
+
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>DIR
+ El volumen de la unidad D es TOSHIBA EXT
+ El n£mero de serie del volumen es: AA8C-7A1D
+
+ Directorio de D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta
+
+27/09/2021  13:01    <DIR>          .
+27/09/2021  13:01    <DIR>          ..
+20/11/2021  19:34                15 MiFichero.txt
+               1 archivos             15 bytes
+               2 dirs  631.899.631.616 bytes libres
+
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
+D:\2§GDAM\PSP\EscrituraProceso\Nueva_carpeta>
